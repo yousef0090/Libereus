@@ -1,8 +1,8 @@
 {	
   "blacklist": {	
-    "guildID": [],
-    "channelID": [],
-    "userID": []
+    "guildID": [796758501228806148],
+    "channelID": [796758501228806151],
+    "userID": [552496297429565440]
   },
   "moderation": {
   	"hoisting characters": ["!", " ", "\"", "$", "'", "(", ",", "-", ".", "/"],
@@ -14,5 +14,5 @@
   		"delete message": true
   	}
   },
-  "token": "your bot token here"
+  "ODA2ODA0MDcxOTQzMTEwNjU3.YBuw2A.xNjs7thdwBJxtC4Nd9Q3kN-vZqE": "your bot token here"
 }
